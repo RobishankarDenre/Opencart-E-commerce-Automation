@@ -1,0 +1,12 @@
+D:\Training\Testing\src\test\java\pageObjects\AccountRegistrationPage.java
+D:\Training\Testing\src\test\java\pageObjects\BasePage.java
+D:\Training\Testing\src\test\java\pageObjects\HomePage.java
+D:\Training\Testing\src\test\java\pageObjects\LoginPage.java
+D:\Training\Testing\src\test\java\pageObjects\MyAccountPage.java
+D:\Training\Testing\src\test\java\testBase\BaseClass.java
+D:\Training\Testing\src\test\java\testCases\TC001AccountRegistrationTest.java
+D:\Training\Testing\src\test\java\testCases\TC002LoginDDT.java
+D:\Training\Testing\src\test\java\testCases\TC002LoginTest.java
+D:\Training\Testing\src\test\java\utilities\DataProviders.java
+D:\Training\Testing\src\test\java\utilities\ExcelUtility.java
+D:\Training\Testing\src\test\java\utilities\ExtentReportManager.java

@@ -1,0 +1,13 @@
+2024-10-06 10:04:14 DEBUG TestNG:82 - suiteXmlPath: "D:\Training\Testing\grouping.xml"
+2024-10-06 10:04:22 INFO  TC001AccountRegistrationTest:18 - **** TC001AccountRegistrationTest Testing Starting ****
+2024-10-06 10:04:23 INFO  TC001AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-10-06 10:04:24 INFO  TC001AccountRegistrationTest:23 - Clicked on Register Link.. 
+2024-10-06 10:04:24 INFO  TC001AccountRegistrationTest:26 - **** Fill the Details of Registration ****
+2024-10-06 10:04:27 INFO  TC001AccountRegistrationTest:38 - Validating expected message..
+2024-10-06 10:04:27 INFO  TC001AccountRegistrationTest:42 - Checking Confirmation message of Account Creation
+2024-10-06 10:04:27 INFO  TC001AccountRegistrationTest:44 - Test Passed
+2024-10-06 10:04:27 INFO  TC001AccountRegistrationTest:55 - **** TC001AccountRegistrationTest Testing Finished ****
+2024-10-06 10:04:32 INFO  TC002LoginTest:21 - **** Starting TC_002_LoginTest  ****
+2024-10-06 10:04:32 DEBUG TC002LoginTest:22 - capturing application debug logs....
+2024-10-06 10:04:34 INFO  TC002LoginTest:44 - *** Logout ****
+2024-10-06 10:04:36 INFO  TC002LoginTest:48 - *** Account Logout Successfully ***
